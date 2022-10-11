@@ -37,7 +37,7 @@ Above is the screenshot of my design.
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/byron-a/Notification-page.git)
-- Live Site URL: [Add live site URL here](https://github.com/byron-a/Notification.github.io)
+- Live Site URL: [Add live site URL here](https://byron-a.github.io/Notification-page/)
 
 ## My process
 
