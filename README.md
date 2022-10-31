@@ -64,6 +64,6 @@ I want to be better generally as a frontend engineer and be able to land a job.
 
 ## Author
 
-- Website - [Work in progress](https://www.work-in-progress)
+- Website - https://byron-a.github.io/My_Resume/
 - Frontend Mentor - [@byron-a](https://www.frontendmentor.io/profile/byron-a)
 
