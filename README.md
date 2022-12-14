@@ -1,5 +1,7 @@
 # Frontend Mentor - Notifications page solution
-be sure to `Please install npm`
+```
+Please install npm
+```
 
 This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
 
