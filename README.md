@@ -13,8 +13,7 @@ Above is the screenshot of my design.
 ## Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flex
+- CSS Flex
 - media queries
 - JavaScript
 
