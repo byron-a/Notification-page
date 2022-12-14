@@ -20,5 +20,5 @@ Above is the screenshot of my design.
 
 ## Author
 
-- Website - https://byron-a.github.io/My_Resume/
+- Website - https://byron-a.github.io/Curriculum-Vitae/
 - Frontend Mentor - [@byron-a](https://www.frontendmentor.io/profile/byron-a)
